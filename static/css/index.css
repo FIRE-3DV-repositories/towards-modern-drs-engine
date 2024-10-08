@@ -114,7 +114,7 @@ body {
   overflow: hidden;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 40%;
 }
 
 .results-carousel .item {
@@ -124,7 +124,7 @@ body {
   margin-top: 5px;
   margin-bottom: 5px;
   overflow: hidden;
-  padding: 20px;
+  padding: 10px;
   font-size: 0;
 }
 
